@@ -33,6 +33,8 @@ htmlcov/
 issue/
 env/
 .env/
+venv
+venv/
 .venv/
 /pythonenv*/
 3rdparty/
