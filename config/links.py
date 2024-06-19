@@ -1,0 +1,11 @@
+class Links:
+    BASE_URL = 'https://demoqa.com/'
+    TEXTBOX_URL = BASE_URL + 'text-box'
+    CHECKBOX_URL = BASE_URL + 'checkbox'
+    RADIOBUTTON_URL = BASE_URL + 'radio-button'
+    WEBTABLES_URL = BASE_URL + 'webtables'
+    BUTTONS_URL = BASE_URL + 'buttons'
+    LINKS_URL = BASE_URL + 'links'
+    BROKEN_LINKS_URL = BASE_URL + 'broken'
+    UPLOAD_DOWNLOAD_URL = BASE_URL + 'upload-download'
+    DYNAMIC_PROPERTIES_URL = BASE_URL + 'dynamic-properties'
