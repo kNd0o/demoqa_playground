@@ -34,7 +34,7 @@ issue/
 env/
 .env/
 venv
-venv/
+venv/*
 .venv/
 /pythonenv*/
 3rdparty/
