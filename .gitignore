@@ -22,7 +22,7 @@ include/
 src/_pytest/_version.py
 # setuptools
 .eggs/
-
+allure-results
 doc/*/_build
 doc/*/.doctrees
 doc/*/_changelog_towncrier_draft.rst
