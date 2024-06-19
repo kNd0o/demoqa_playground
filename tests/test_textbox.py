@@ -19,3 +19,6 @@ class TestTextBox(BaseTest):
         self.textbox_page.check_email_output(self.data.EMAIL)
         self.textbox_page.check_curraddress_output(self.data.CURR_ADDRESS)
         self.textbox_page.check_permaddress_output(self.data.PERMA_ADDRESS)
+
+
+git
