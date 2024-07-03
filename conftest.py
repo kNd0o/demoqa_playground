@@ -12,6 +12,5 @@ def driver(request):
     options.add_argument('--no-sandbox')
     driver = webdriver.Chrome(options=options)
     request.cls.driver = driver
-    # driver.maximize_window()
     yield driver
     driver.quit()
